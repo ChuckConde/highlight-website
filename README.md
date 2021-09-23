@@ -1,3 +1,10 @@
+Simple project made for a friend to highlight text dynamically on hover and with a button, it is pretty simple I did it just for fun, it is related to a grim part of the Argentinian history and the censorship at the time, this is the link to the website:
+
+https://highlighted-text.web.app/
+
+
+
+
 # HighlightText
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.

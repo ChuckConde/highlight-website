@@ -1,0 +1,55 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    background-color: #f6f6f6;
+    .container {
+        width: 80%;
+        height: 100%;
+        padding: 0 40px;
+        box-shadow: 12px 0 15px -4px #000, -12px 0 8px -4px #000;
+        .show-the-truth {
+            margin-top: 20px;
+            &.show-truth {
+                background-color: red;
+                color: white;
+            }
+        }
+        .final-truth {
+            h4,
+            p {
+                background-color: #000;
+                color: white;
+            }
+            .never-again {
+                background-color: #000;
+                color: red;
+            }
+            h4 {
+                width: fit-content;
+            }
+        }
+    }
+    h2 {
+        font-size: 36px;
+        span {
+            font-size: 36px;
+        }
+    }
+    h4 {
+        font-size: 24px;
+        span {
+            font-size: 24px;
+        }
+    }
+    p {
+        font-size: 14px;
+    }
+    .dissapearing-text {
+        background-color: #000;
+        &:hover,
+        &.show-me {
+            background-color: red;
+            color: #fff;
+        }
+    }
+}

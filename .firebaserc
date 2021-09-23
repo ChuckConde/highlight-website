@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "highlighted-text": {
+      "hosting": {
+        "highlight-text": [
+          "highlighted-text"
+        ]
+      }
+    }
+  }
+}
